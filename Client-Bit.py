@@ -4,7 +4,7 @@ import radio
 import math
 import utime
 
-radio.config(group=93, power=1)
+radio.config(group=98, power=1)
 
 radio.on()
 id = 2
